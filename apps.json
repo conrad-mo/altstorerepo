@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.example.weatherapp",
+      "developerName": "Conrad Mo",
+      "downloadURL": "https://github.com/conrad-mo/weatherapp/releases/download/nightly/WeatherApp.ipa",
+      "iconURL": "",
+      "localizedDescription": "",
+      "name": "Weather App",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A weather app made in flutter",
+      "tintColor": "018084",
+      "version": "0.1.0",
+      "versionDate": "",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.conradmo.altstorerepo",
+  "name": "Conrad's Altstore Repo",
+  "news": [],
+  "userInfo": {}
+}

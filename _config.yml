@@ -1,0 +1,5 @@
+title: Conrad's AltStore Repo
+description: "An AltStore repo for my apps"
+theme: jekyll-theme-slate
+github:
+  is_project_page: false
