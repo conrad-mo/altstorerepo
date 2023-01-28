@@ -5,7 +5,7 @@
       "bundleIdentifier": "com.example.weatherapp",
       "developerName": "Conrad Mo",
       "downloadURL": "https://github.com/conrad-mo/weatherapp/releases/download/nightly/WeatherApp.ipa",
-      "iconURL": "https://raw.githubusercontent.com/conrad-mo/altstorerepo/master/weatherapp.png",
+      "iconURL": "https://raw.githubusercontent.com/conrad-mo/altstorerepo/master/assets/weatherapp.png",
       "localizedDescription": "A weather app made in flutter",
       "name": "Weather App",
       "size": 2184796,
