@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": true,
-      "bundleIdentifier": "com.example.weatherapp",
+      "bundleIdentifier": "com.conradmo.weatherapp",
       "developerName": "Conrad Mo",
       "downloadURL": "https://github.com/conrad-mo/weatherapp/releases/download/nightly/WeatherApp.ipa",
       "iconURL": "https://raw.githubusercontent.com/conrad-mo/altstorerepo/master/assets/weatherapp.png",
