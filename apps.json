@@ -8,6 +8,9 @@
       "iconURL": "https://raw.githubusercontent.com/conrad-mo/weatherapp/master/assets/icon.png",
       "localizedDescription": "A weather app made in flutter",
       "name": "Weather App",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/conrad-mo/altstorerepo/master/assets/weatherapp.png",
+      ],
       "size": 2184796,
       "subtitle": "A weather app made in flutter",
       "tintColor": "018084",
