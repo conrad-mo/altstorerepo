@@ -17,13 +17,13 @@
       "version": "0.1.0",
       "versionDate": "2023-1-27",
       "versionDescription": ""
-    }
+    },
     {
       "beta": true,
       "bundleIdentifier": "com.conradmo.textsync",
       "developerName": "Conrad Mo",
       "downloadURL": "https://github.com/conrad-mo/textsync/releases/download/nightly/TextSync.ipa",
-      "iconURL": "https://raw.githubusercontent.com/conrad-mo/weatherapp/master/assets/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/conrad-mo/textsync/master/assets/textsync.png",
       "localizedDescription": "A WIP chat app built with flutter and firebase",
       "name": "Textsync",
       "size": 2184796,
