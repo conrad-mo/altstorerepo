@@ -18,6 +18,21 @@
       "versionDate": "2023-1-27",
       "versionDescription": ""
     }
+    {
+      "beta": true,
+      "bundleIdentifier": "com.conradmo.textsync",
+      "developerName": "Conrad Mo",
+      "downloadURL": "https://github.com/conrad-mo/textsync/releases/download/nightly/TextSync.ipa",
+      "iconURL": "https://raw.githubusercontent.com/conrad-mo/weatherapp/master/assets/icon.png",
+      "localizedDescription": "A WIP chat app built with flutter and firebase",
+      "name": "Textsync",
+      "size": 2184796,
+      "subtitle": "A chat app made with flutter and firebase",
+      "tintColor": "018084",
+      "version": "0.1.0",
+      "versionDate": "2023-7-22",
+      "versionDescription": ""
+    }
   ],
   "identifier": "com.conradmo.altstorerepo",
   "name": "Conrad's Altstore Repo",
