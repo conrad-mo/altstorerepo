@@ -20,10 +20,10 @@
     },
     {
       "beta": true,
-      "bundleIdentifier": "com.conradmo.veridian",
+      "bundleIdentifier": "com.conradmo.viridian",
       "developerName": "Conrad Mo",
-      "downloadURL": "https://github.com/conrad-mo/veridian/releases/download/nightly/Viridian.ipa",
-      "iconURL": "https://raw.githubusercontent.com/conrad-mo/veridian/master/assets/icon.png",
+      "downloadURL": "https://github.com/conrad-mo/viridian/releases/download/nightly/Viridian.ipa",
+      "iconURL": "https://raw.githubusercontent.com/conrad-mo/viridian/master/assets/icon.png",
       "localizedDescription": "A WIP chat app built with flutter and firebase",
       "name": "Viridian",
       "size": 2184796,
