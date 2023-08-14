@@ -37,25 +37,6 @@
       "versionDate": "2023-8-13",
       "versionDescription": ""
     },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.conradmo.viridian",
-      "developerName": "Conrad Mo",
-      "downloadURL": "https://github.com/conrad-mo/viridian/releases/download/1.0.0/Viridian.ipa",
-      "iconURL": "https://raw.githubusercontent.com/conrad-mo/viridian/master/assets/icon.png",
-      "localizedDescription": "A chat app built with flutter and firebase",
-      "name": "Viridian",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/conrad-mo/viridian/master/.github/light.png",
-        "https://raw.githubusercontent.com/conrad-mo/viridian/master/.github/dark.png",
-      ],
-      "size": 2184796,
-      "subtitle": "A chat app made with flutter and firebase",
-      "tintColor": "018084",
-      "version": "1.0.0",
-      "versionDate": "2023-8-13",
-      "versionDescription": ""
-    }
   ],
   "identifier": "com.conradmo.altstorerepo",
   "name": "Conrad's Altstore Repo",
